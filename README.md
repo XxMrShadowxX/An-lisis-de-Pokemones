@@ -7,7 +7,8 @@ oscalam.vm@gmail.com
 # Licencia
 GNU General Public License v3.0
 # Instalación y ejecución
-
+Para la instalación siemplemente descargas los archivos como una carpeta zip y si solo lo quieres ejecutar desde git hud entras al archivo llamdo codigo, saldra una opcion para abrir en colab donde le das clic.
+[![Captura.png](https://i.postimg.cc/mD9tn3FW/Captura.png)](https://postimg.cc/CBFhBqNc)
 # Introducción
 En esta proyecto se vera un porgrama para comparar las estadisticas de 2 pokemones de todas las generaciones (menos de la que acaban de sacar), con esto varias personas que sea amante de los juegos Pokemon podra comparar a sus pokemones de su equipo para ver quien es más fuerte que otro.
 # Metodología
