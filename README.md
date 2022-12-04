@@ -24,5 +24,5 @@ Esta practica la realice más que nada a prueba y error
 # Conclusiones
 Realize esta proyecto porque en mi infancia siempre me gusto los pokemones y simpre me preguntabla cual es mas fuerte que este pokemon, gracias a eso obtuve la grandiosa idea de realizar este proyecto que disfrute realizarlo, tuve unas dificultades en resolverlo pero al final se pudo.
 # Bibliografía.
-https://pokeapi.co/
+https://pokeapi.co/                                                                
 https://numython.github.io/posts/2016/01/graficas-en-coordenadas-polares-en/
