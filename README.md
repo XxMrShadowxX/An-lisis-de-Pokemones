@@ -1,4 +1,4 @@
-# Anlisis de Pokemones
+# Analisis de Pokemones
 Comparacion de las estaditicas entre 2 pokemones en un grafica polar
 # Autor
 Vázquez Mendoza Oscar Alam
