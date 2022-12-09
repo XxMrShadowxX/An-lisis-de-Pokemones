@@ -21,12 +21,12 @@ En este proyecto se verá un programa para comparar las estadísticas de 2 Pokem
 # Metodología
 En este proyecto se requirió conocimiento y uso de la programación donde se usó Python 3 con diccionarios, ciclos, listas, módulos y bibliotecas.
 Las librerías utilizadas en Python fueron:
-•	Pandas especializadas en el manejo y análisis de estructuras de datos, donde lo use para realizar la tabla
-•	 Matplotlib especializada en la creación de gráficos en dos dimensiones, para realizar la gráfica polar.
-•	Requests que le permite enviar solicitudes HTTP en Python, donde use la Api
-•	NumPy especializada en el cálculo numérico y el análisis de datos
-•	Math Este proporciona acceso a las funciones matemáticas definidas en el estándar de C.
-La pagina API utilizada fue: https://pokeapi.co/
+•	Pandas especializadas en el manejo y análisis de estructuras de datos, donde lo use para realizar la tabla.                              
+•	 Matplotlib especializada en la creación de gráficos en dos dimensiones, para realizar la gráfica polar.                            
+•	Requests que le permite enviar solicitudes HTTP en Python, donde use la Api.                                                          
+•	NumPy especializada en el cálculo numérico y el análisis de datos.                                            
+•	Math Este proporciona acceso a las funciones matemáticas definidas en el estándar de C.                                                               
+La pagina API utilizada fue: https://pokeapi.co/                                                                                                 
 Nota: No es necesario saber sobre los pokemones.
 # Implementación
 Este proyecto se puede implementar en una pagina web donde toda la gente interesada en comparar estadidticas de pokemones, podra menterse a la pagina.
