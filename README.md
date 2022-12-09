@@ -16,9 +16,8 @@ Puedes dar clic en Opne in colab para dirigirte a colab y poder ejecutar el cód
 Una vez dentro de colab ejecuta el código por orden de celdas que se encuentran.
 Las siguientes celdas son las que piden un numero ingresado por el usuario, puedes poner cualquier numero hasta el 809 que es el numero de pokemones que hay actualmente enla base de datos.
 [![6.png](https://i.postimg.cc/xqrBys55/6.png)](https://postimg.cc/0Kft90LK)
-
 # Introducción
-En esta proyecto se vera un porgrama para comparar las estadisticas de 2 pokemones de todas las generaciones (menos de la que acaban de sacar), con esto varias personas que sea amante de los juegos Pokemon podra comparar a sus pokemones de su equipo para ver quien es más fuerte que otro.
+En este proyecto se verá un programa para comparar las estadísticas de 2 Pokemones de todas las generaciones (menos de la que acaban de sacar), con esto varias personas que sea amante de los juegos Pokemon podrá comparar a sus Pokemones de su equipo para ver quien es más fuerte que otro.
 # Metodología
 En este proyecto se requirio conocimiento y uso de la pogramacion, python 3(diccionarios, ciclos, listas, modulos y blibiotecas), no es necesario saber sobre los pokemones.
 # Implementación
