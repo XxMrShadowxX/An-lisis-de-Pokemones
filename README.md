@@ -19,7 +19,15 @@ Las siguientes celdas son las que piden un numero ingresado por el usuario, pued
 # Introducción
 En este proyecto se verá un programa para comparar las estadísticas de 2 Pokemones de todas las generaciones (menos de la que acaban de sacar), con esto varias personas que sea amante de los juegos Pokemon podrá comparar a sus Pokemones de su equipo para ver quien es más fuerte que otro.
 # Metodología
-En este proyecto se requirio conocimiento y uso de la pogramacion, python 3(diccionarios, ciclos, listas, modulos y blibiotecas), no es necesario saber sobre los pokemones.
+En este proyecto se requirió conocimiento y uso de la programación donde se usó Python 3 con diccionarios, ciclos, listas, módulos y bibliotecas.
+Las librerías utilizadas en Python fueron:
+•	Pandas especializadas en el manejo y análisis de estructuras de datos, donde lo use para realizar la tabla
+•	 Matplotlib especializada en la creación de gráficos en dos dimensiones, para realizar la gráfica polar.
+•	Requests que le permite enviar solicitudes HTTP en Python, donde use la Api
+•	NumPy especializada en el cálculo numérico y el análisis de datos
+•	Math Este proporciona acceso a las funciones matemáticas definidas en el estándar de C.
+La pagina API utilizada fue: https://pokeapi.co/
+Nota: No es necesario saber sobre los pokemones.
 # Implementación
 Este proyecto se puede implementar en una pagina web donde toda la gente interesada en comparar estadidticas de pokemones, podra menterse a la pagina.
 # Pruebas 
