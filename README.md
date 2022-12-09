@@ -31,7 +31,16 @@ Nota: No es necesario saber sobre los pokemones.
 # Implementación
 Este proyecto se puede implementar en una pagina web donde toda la gente interesada en comparar estadidticas de pokemones, podra menterse a la pagina.
 # Pruebas 
-Esta practica la realice más que nada a prueba y error
+Realice varias pruebas como las siguientes:
+Compare el numero 500 que es emboar y el numero 700 que es sylveon donde el resultado fue:
+[![10.png](https://i.postimg.cc/X7mKgQmM/10.png)](https://postimg.cc/D8Qbvd75)
+[![11.png](https://i.postimg.cc/yNDYVynP/11.png)](https://postimg.cc/HJCCz5qc)
+Los siguientes fueron el 150 y el 200:
+[![12.png](https://i.postimg.cc/1tWM16RD/12.png)](https://postimg.cc/VrCXjJCN)
+[![13.png](https://i.postimg.cc/vmYW8BNh/13.png)](https://postimg.cc/fVP3BwZS)
+Los siguientes fueron 201 y el 202
+[![14.png](https://i.postimg.cc/9QnmsJsc/14.png)](https://postimg.cc/mP7WHNbn)
+[![15.png](https://i.postimg.cc/02jhhPvJ/15.png)](https://postimg.cc/BXWhKWXq)
 # Resultados 
 [![1.png](https://i.postimg.cc/QC9GmSBc/1.png)](https://postimg.cc/2LDK8Q75)
 [![2.png](https://i.postimg.cc/prbb0zK7/2.png)](https://postimg.cc/xJR48kxy)
